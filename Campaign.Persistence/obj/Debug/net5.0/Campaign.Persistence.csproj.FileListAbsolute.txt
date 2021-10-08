@@ -1,0 +1,54 @@
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Persistence.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Persistence.runtimeconfig.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Persistence.runtimeconfig.dev.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\ref\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\ref\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Persistence.genruntimeconfig.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.runtimeconfig.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.runtimeconfig.dev.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\ref\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\ref\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.genruntimeconfig.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.runtimeconfig.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.runtimeconfig.dev.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\ref\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\ref\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Persistence\obj\Debug\net5.0\Campaign.Persistence.genruntimeconfig.cache

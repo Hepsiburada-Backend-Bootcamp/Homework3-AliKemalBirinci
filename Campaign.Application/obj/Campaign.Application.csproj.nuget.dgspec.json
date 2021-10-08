@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Application\\Campaign.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Application\\Campaign.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Application\\Campaign.Application.csproj",
+        "projectName": "Campaign.Application",
+        "projectPath": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Application\\Campaign.Application.csproj",
+        "packagesPath": "C:\\Users\\ali.birinci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ali.birinci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.df-api.net/DefaultCollection/_packaging/DfApiArtifacts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Domain\\Campaign.Domain.csproj": {
+                "projectPath": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Domain\\Campaign.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Domain\\Campaign.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Domain\\Campaign.Domain.csproj",
+        "projectName": "Campaign.Domain",
+        "projectPath": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Domain\\Campaign.Domain.csproj",
+        "packagesPath": "C:\\Users\\ali.birinci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali.birinci\\source\\repos\\HB\\HW3\\Homework3-AliKemalBirinci\\Campaign.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ali.birinci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.df-api.net/DefaultCollection/_packaging/DfApiArtifacts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

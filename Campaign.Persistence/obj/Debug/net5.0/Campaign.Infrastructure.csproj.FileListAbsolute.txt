@@ -1,0 +1,6 @@
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Infrastructure.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Infrastructure\obj\Debug\net5.0\Campaign.Infrastructure.csproj.CoreCompileInputs.cache

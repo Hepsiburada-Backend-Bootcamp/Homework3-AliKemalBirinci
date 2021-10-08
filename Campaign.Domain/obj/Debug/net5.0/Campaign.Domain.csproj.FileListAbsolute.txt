@@ -1,0 +1,24 @@
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\Campaign.Domain.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\ref\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\ref\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\Campaign.Domain.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\ref\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\ref\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Domain\obj\Debug\net5.0\Campaign.Domain.pdb

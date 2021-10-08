@@ -1,0 +1,30 @@
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Application.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\ref\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Application.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\ref\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Application.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\ref\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Application.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\ref\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\Campaign.Application\obj\Debug\net5.0\Campaign.Application.pdb

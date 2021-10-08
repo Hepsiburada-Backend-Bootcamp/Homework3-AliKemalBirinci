@@ -1,0 +1,186 @@
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\appsettings.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.exe
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.runtimeconfig.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.runtimeconfig.dev.json
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\ref\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Dapper.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.Seq.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Application.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\staticwebassets\Campaign.API.StaticWebAssets.Manifest.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\staticwebassets\Campaign.API.StaticWebAssets.xml
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\scopedcss\bundle\Campaign.API.styles.css
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.RazorTargetAssemblyInfo.cache
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\ref\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.pdb
+C:\Users\ali.birinci\source\repos\HB\HW2 Pushed\Homework2-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.genruntimeconfig.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\appsettings.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.exe
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.deps.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.runtimeconfig.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.runtimeconfig.dev.json
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\ref\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.API.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Dapper.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Npgsql.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Serilog.Sinks.Seq.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Application.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Domain.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Persistence.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Application.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Domain.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\bin\Debug\net5.0\Campaign.Persistence.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.csprojAssemblyReference.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.AssemblyInfoInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.AssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.csproj.CoreCompileInputs.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\staticwebassets\Campaign.API.StaticWebAssets.Manifest.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\staticwebassets\Campaign.API.StaticWebAssets.xml
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\scopedcss\bundle\Campaign.API.styles.css
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.RazorTargetAssemblyInfo.cache
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.csproj.CopyComplete
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\ref\Campaign.API.dll
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.pdb
+C:\Users\ali.birinci\source\repos\HB\HW3\Homework3-AliKemalBirinci\CampaignApi\obj\Debug\net5.0\Campaign.API.genruntimeconfig.cache
